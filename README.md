@@ -85,7 +85,3 @@ The guide walks you through the process of creating a secure VPN tunnel between 
 
 - [AWS Transit Gateway Documentation](https://docs.aws.amazon.com/vpc/latest/tgw/what-is-transit-gateway.html)
 - [AWS Site-to-Site VPN Documentation](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
